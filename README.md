@@ -88,5 +88,5 @@ pip install pandas scikit-learn
 2. **Run the script**:
 ```
 python Full_Pipeline.py
-```\
+```
 
